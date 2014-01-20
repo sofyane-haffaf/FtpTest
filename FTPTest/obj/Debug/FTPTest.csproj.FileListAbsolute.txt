@@ -1,0 +1,11 @@
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\obj\Debug\FTPTest.Acceuil.resources
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\obj\Debug\FTPTest.Properties.Resources.resources
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\obj\Debug\FTPTest.csproj.GenerateResource.Cache
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\bin\Debug\FTPTest.exe
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\bin\Debug\FTPTest.pdb
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\bin\Debug\OpenNETCF.Net.Ftp.dll
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\bin\Debug\OpenNETCF.Net.Ftp.pdb
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\obj\Debug\FTPTest.exe
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\obj\Debug\FTPTest.pdb
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\FTPTest\bin\Debug\OpenNETCF.Net.dll

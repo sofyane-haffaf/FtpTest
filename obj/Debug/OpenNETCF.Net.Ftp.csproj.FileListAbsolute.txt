@@ -1,0 +1,10 @@
+C:\Users\Sofyane\Desktop\OpenNETCF.Net.Ftp\bin\Debug\OpenNETCF.Net.Ftp.dll
+C:\Users\Sofyane\Desktop\OpenNETCF.Net.Ftp\bin\Debug\OpenNETCF.Net.Ftp.pdb
+C:\Users\Sofyane\Desktop\OpenNETCF.Net.Ftp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sofyane\Desktop\OpenNETCF.Net.Ftp\obj\Debug\OpenNETCF.Net.Ftp.dll
+C:\Users\Sofyane\Desktop\OpenNETCF.Net.Ftp\obj\Debug\OpenNETCF.Net.Ftp.pdb
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\bin\Debug\OpenNETCF.Net.Ftp.dll
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\bin\Debug\OpenNETCF.Net.Ftp.pdb
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\obj\Debug\OpenNETCF.Net.Ftp.dll
+C:\Users\Sofyane\Documents\Visual Studio 2008\Projects\FTPTest\obj\Debug\OpenNETCF.Net.Ftp.pdb
